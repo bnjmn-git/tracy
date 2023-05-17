@@ -19,6 +19,12 @@ Build Instructions
 ---
 Use rust's [cargo](https://doc.rust-lang.org/cargo/commands/cargo-build.html) to build project into an executable. Alternatively, download the release binaries in this repository.
 
+Controls
+---
+- F1 will toggle the UI on/off.
+- You can control the camera by holding down the left mouse button over the scene; this will activate camera input.
+While the button is held: dragging the mouse will rotate the camera; WASD + QE will move the camera.
+
 Screenshots
 ---
 
